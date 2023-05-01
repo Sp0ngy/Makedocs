@@ -1,0 +1,18 @@
+site_name: My Docs
+
+# Theming and style
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+  favicon: assets/favicon.png
+
+# Navigation
+nav:
+  - Front Matter:
+      - Project Generals: 1_Front_Matter/Project_generals.md
+  - Introduction:
+      - Overview & Problem Description: 2_Introduction/a_Overview_&_Problem_Description.md
+      - Glossary & Domain Dictionary: 2_Introduction/b_Glossary_&_Domain_Dictionary.md
