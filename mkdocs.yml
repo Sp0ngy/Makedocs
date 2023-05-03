@@ -16,3 +16,30 @@ nav:
   - Introduction:
       - Overview & Problem Description: 2_Introduction/a_Overview_&_Problem_Description.md
       - Glossary & Domain Dictionary: 2_Introduction/b_Glossary_&_Domain_Dictionary.md
+      - Technical Requirements: 2_Introduction/c_Technical_Requirements.md
+      - Scope Limits & Future Goals: 2_Introduction/d_Scope_limits_and_future_goals.md
+      - Assumptions: 2_Introduction/e_Assumptions.md
+  - Solution:
+      - Proposed Solution:
+          - Proposed Solution: 3_Solution/Proposed_Solution/b_Proposed_Solution.md
+          - Data Model: 3_Solution/Proposed_Solution/c_Data_Model.md
+          - Business Logic: 3_Solution/Proposed_Solution/d_Business_Logic.md
+          - Presentation Layer: 3_Solution/Proposed_Solution/e_Presentation_Layer.md
+          - Other Questions: 3_Solution/Proposed_Solution/f_Other_questions.md
+          - Stack Definition: 3_Solution/Proposed_Solution/g_Stack_definition.md
+      - Existing Solutions: 3_Solution/a_Existing_Solution.md
+      - Test Plan: 3_Solution/b_Test_Plan.md
+      - Monitoring & Alerting Plan: 3_Solution/c_Monitoring_and_Alerting_Plan.md
+      - Release & Deployment Plan: 3_Solution/d_Release_and_Deployment_Plan.md
+      - Rollback Plan: 3_Solution/e_Rollback_Plan.md
+  - Security & Privacy Considerations:
+      - Privacy Considerations: 4_Security_and_Privacy_Considerations/Privacy_Considerations.md
+      - Security Considerations: 4_Security_and_Privacy_Considerations/Security_Considerations.md
+  - Further Considerations:
+      - 3rd-Party Services and Platform: 5_Further_Considerations/a_Third-party_services_and_platforms_considerations.md
+      - Cost Analysis: 5_Further_Considerations/b_Cost_analysis.md
+      - Regional Considerations: 5_Further_Considerations/c_Regional_considerations.md
+      - Accessibility Considerations: 5_Further_Considerations/d_Accessibility_considerations.md
+      - Operational Considerations: 5_Further_Considerations/e_Operational_considerations.md
+      - Risks: 5_Further_Considerations/f_Risks.md
+      - Support Considerations: 5_Further_Considerations/g_Support_considerations.md
