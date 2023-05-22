@@ -39,3 +39,6 @@
 - [Cross-Enterprise User Assertion (XUA) Profile](https://profiles.ihe.net/ITI/TF/Volume1/ch-13.html)
 - [Remove Metadata and Documents (RMD) Profile](https://profiles.ihe.net/ITI/TF/Volume1/ch-44.html)
 - [Restricted Metadata Update (RMU) Profile](https://profiles.ihe.net/ITI/TF/Volume1/ch-48.html)
+
+### Fields 
+`current_health_status`: healthy, under surveillance, ill

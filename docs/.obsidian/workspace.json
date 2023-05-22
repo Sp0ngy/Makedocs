@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fece13a4ac04017",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_Front_Matter/Project_generals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31a54107606430b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Introduction/b_Glossary_&_Domain_Dictionary.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Introduction/b_Glossary_&_Domain_Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Introduction/b_Glossary_&_Domain_Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Introduction/b_Glossary_&_Domain_Dictionary.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,14 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31a54107606430b3",
+  "active": "c4d84fdad7cb5d33",
   "lastOpenFiles": [
-    "3_Solution/Proposed_Solution/c_Data_Model.md",
-    "3_Solution/a_Existing_Solution.md",
-    "2_Introduction/e_Assumptions.md",
-    "2_Introduction/d_Scope_limits_and_future_goals.md",
-    "2_Introduction/c_Technical_Requirements.md",
-    "2_Introduction/b_Glossary_&_Domain_Dictionary.md",
-    "3_Solution/Proposed_Solution/g_Stack_definition.md"
+    "Generals/Stack_definition.md",
+    "Solution Tech/IAM.md",
+    "Solution Tech/Security_Considerations.md",
+    "Solution Tech/Stack_definition.md",
+    "Solution Tech/Test_Plan.md",
+    "Solution Tech/Proposed_Solution.md",
+    "Solution Tech/Presentation_Layer.md",
+    "Solution Tech/g_Stack_definition.md",
+    "Solution Tech/Data_Model.md",
+    "Solution Tech/Business_Logic.md",
+    "Solution Tech",
+    "3_Solution/Presentation_Layer.md",
+    "3_Solution/Business_Logic.md",
+    "3_Solution/Data_Model.md",
+    "3_Solution/Test_Plan.md",
+    "3_Solution/Proposed_Solution.md",
+    "3_Solution/g_Stack_definition.md",
+    "3_Solution/f_Other_questions.md",
+    "3_Solution/e_Presentation_Layer.md",
+    "3_Solution/d_Business_Logic.md",
+    "3_Solution/c_Data_Model.md",
+    "3_Solution/b_Proposed_Solution.md",
+    "Generals/Project_generals.md",
+    "Generals/Overview_&_Problem_Description.md",
+    "Generals/Glossary_&_Domain_Dictionary.md",
+    "Generals",
+    "2_Introduction/Glossary_&_Domain_Dictionary.md",
+    "2_Introduction/Overview_&_Problem_Description.md"
   ]
 }
